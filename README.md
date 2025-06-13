@@ -1,4 +1,5 @@
-# 🌟 Mentora – AI-Powered Mental Health Companion
+# 🌟MENTORA- A Gemini – Powered Mental Wellness Platform with Real-Time Emotion Tracking, Mood and PDF Reports.
+
 
 **Mentora** is an AI-driven mental wellness platform designed to support users through intelligent chatbot conversations, mood tracking, emotion recognition, and personalized sentiment analysis reports.
 
